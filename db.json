@@ -1,3 +1,39 @@
 {
-    
+  "users": [
+    {
+      "id": 1,
+      "username": "xpydrr",
+      "email": "mail@mail.com",
+      "password": "admin12345",
+      "isVerified": true
+    },
+    {
+      "username": "kanisius",
+      "email": "joko@mail.com",
+      "password": "admin123",
+      "isVerified": false,
+      "id": 2
+    },
+    {
+      "username": "kanisius",
+      "email": "jokowi@mail.com",
+      "password": "admin123",
+      "isVerified": false,
+      "id": 3
+    },
+    {
+      "username": "kanisius",
+      "email": "jokoi@mail.com",
+      "password": "asdasdasd",
+      "isVerified": false,
+      "id": 4
+    },
+    {
+      "username": "xpydrr",
+      "email": "xpydrr@mail.com",
+      "password": "asdljkhljkh",
+      "isVerified": false,
+      "id": 5
+    }
+  ]
 }
